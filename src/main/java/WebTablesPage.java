@@ -65,7 +65,7 @@ public class WebTablesPage {
 
             row.shouldHave(text(expectedSalary));
             row.shouldHave(text(expectedDept));
-            System.out.println("Doğrulama Başarılı : Mail " + mail)
+            System.out.println("Doğrulama Başarılı : Mail " + mail);
     }
 
 }
